@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <file path="./$(projectName).waModel">
+    <tag name="catalog"/>
+  </file>
+  <file path="./$(projectName).waSettings">
+    <tag name="settings"/>
+  </file>
+  <file path="./$(projectName).waPerm">
+    <tag name="permissions"/>
+  </file>
+  <folder path="./WebFolder/">
+    <tag name="webFolder"/>
+  </folder>
+</project>
